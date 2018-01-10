@@ -1,0 +1,3 @@
+rootProject.name = 'ubs_Maps'
+
+include ':app'
